@@ -1,5 +1,5 @@
-hologram_location: spawn;150.500;27.950;211.500
-stands_locations:
+hologram_location: spawn;150.500;27.950;211.500 # world name, x z y
+stands_locations: 
 - spawn;150.5;32;205.5;0;-360
 - spawn;147.5;31;207.5;0;-360
 - spawn;153.5;30;207.5;0;-360
