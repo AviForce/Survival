@@ -1,5 +1,5 @@
 mysql:
   host: localhost
   user: root
-  database: avihologram
+  database: hologram
   password: root1
